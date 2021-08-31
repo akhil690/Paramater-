@@ -1,2 +1,2 @@
-To access parameters users at the run time i used {params branch}
+To access parameters users at the run time i used ${params branch}
 I checkout from the branch and build it.
